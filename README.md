@@ -9,7 +9,7 @@ This repository contains code and resources for integrating Langchain with Googl
 - Built with Streamlit for an interactive and scalable user interface  
 
 # How to Run
-1. **Clone the repository:**
+1. **Clone the repository**
 
 2. Install dependencies:
 pip install -r requirements.txt
