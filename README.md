@@ -11,9 +11,6 @@ This repository contains code and resources for integrating Langchain with Googl
 # How to Run
 1. **Clone the repository:**
 
-   git clone https://github.com/anjalireddy1706/Langchain-using-Google-API.git
-   cd Langchain-using-Google-API
-
 2. Install dependencies:
 pip install -r requirements.txt
 
